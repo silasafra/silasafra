@@ -1,4 +1,4 @@
-### Olá! eu sou o  Silas Afra, desenvolvedor front-end e UX Designe!
+### Olá! Eu sou o  Silas Afra, desenvolvedor front-end e UX Designe!
 
 
 
